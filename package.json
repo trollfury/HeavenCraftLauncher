@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "HeavenCraft",
   "version": "1.9.0",
-  "productName": "Helios Launcher",
+  "productName": "HeavenCraft Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) et Trollfury",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/trollfury/HeavenCraftLauncher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/trollfury/HeavenCraftLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -48,6 +48,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/trollfury/HeavenCraftLauncher.git"
   }
 }
